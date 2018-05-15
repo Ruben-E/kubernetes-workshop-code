@@ -6,14 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="hello-kubernetes" />
         <module name="playground" />
         <module name="user-service" />
         <module name="user-service-proxy" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="hello-kubernetes" target="1.8" />
+      <module name="hello-kubernetes" target="1.5" />
       <module name="playground" target="1.8" />
       <module name="user-service" target="1.8" />
       <module name="user-service-proxy" target="1.8" />
