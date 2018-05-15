@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/hello-kubernetes.iml" filepath="$PROJECT_DIR$/hello-kubernetes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/playground/playground.iml" filepath="$PROJECT_DIR$/playground/playground.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user-service/user-service.iml" filepath="$PROJECT_DIR$/user-service/user-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/userserviceproxy/user-service-proxy.iml" filepath="$PROJECT_DIR$/userserviceproxy/user-service-proxy.iml" />
     </modules>
   </component>
 </project>
